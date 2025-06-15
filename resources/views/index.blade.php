@@ -123,10 +123,7 @@
                     @endforeach
                 </tbody>
             </table>
-            <div class="flex justify-between mt-10 w-full">
-                <button class="bg-slate-800 px-3 py-2 rounded-md text-white cursor-pointer">Previous</button>
-                <button class="bg-slate-800 px-3 py-2 rounded-md text-white cursor-pointer">Next</button>
-            </div>
+
     </div>
 
     <div class="bg-slate-800 mt-10 w-full h-10"></div>
